@@ -12,3 +12,10 @@ Linux mint
 zorin OS
 Kali Linux
 
+Windows
+
+Windows 7
+Windows 8
+Windows XP
+Windows 10
+indows 11

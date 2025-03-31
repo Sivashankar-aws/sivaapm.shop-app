@@ -1,0 +1,14 @@
+Linux
+
+RedHat
+CentOS
+Rocky
+Oracle
+SUSE
+Ubuntu
+Lubuntu
+Kubutu
+Linux mint
+zorin OS
+Kali Linux
+
